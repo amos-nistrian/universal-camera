@@ -6,6 +6,13 @@
 //  Copyright © 2018 Amos. All rights reserved.
 //
 
+
+/*
+    TODO
+    Hitting no for privacy settings for  accessing the camera or library
+    Adding and playing video
+ */
+
 import UIKit
 
 class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate {
